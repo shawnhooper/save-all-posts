@@ -3,7 +3,7 @@
 /***
 * Plugin Name: Save All Posts from WP-CLI
 * Pluin Author: Shawn M. Hooper
-* Author URL: https://shawnhooeper.ca/
+* Author URL: https://shawnhooper.ca/
 * Plugin Version: 1.0
 ****/
 
